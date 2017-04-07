@@ -1,0 +1,14 @@
+{
+  "name": "chalk-pkg",
+  "version": "1.0.0",
+  "description": "This is my first package installation using npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
